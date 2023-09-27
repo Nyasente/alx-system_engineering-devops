@@ -1,1 +1,1 @@
-read me file_2
+read me file for print workig directory
